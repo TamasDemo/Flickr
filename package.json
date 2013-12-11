@@ -1,0 +1,30 @@
+{
+	"name": "Flickr",
+	"version": "1.0.0",
+	"license": "BSD",
+	"description": "",
+	"keywords": [
+		"Node.js",
+		"application"
+	],
+	"author": {
+		"name": "Tamas Szoke",
+		"email": "sz.tamas.info@gmail.com",
+		"url":  ""
+	},
+	"homepage": "",
+	"engines": {
+		"node": ">= 0.6.0",
+		"npm": ">= 1.0.0"
+	},
+	"dependencies": {
+		"express": "",
+		"request": "",
+		"cheerio": "",
+		"nodemon": ""
+	},
+	"devDependencies": {},
+	"bundleDependencies": [],
+	"private": true,
+	"main": "server.js"
+}
